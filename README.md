@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Vinícius Bechtold Bilk. Bem Vindo ao meu perfil!
 
 <h1 align="center">Hi 👋, I'm Vinícius Bilk!</h1>
-<p align="center">16 years</p>
-<p align="center">Brazilian</p>
-<p align="center">Timbó, SC</p>
+<p>👌 16 years</p>
+<p>⚽ Brazilian</p>
+<p>🌆 Timbó, SC</p>
 <br>
 
 <p align = "center">
